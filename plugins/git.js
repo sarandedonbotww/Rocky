@@ -18,12 +18,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Saidali*
-*owner number wa.me/919946432377*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/ameer-kallumthodi/pikachu*
-*audio commads    https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Anshad*
+*owner number wa.me/919995390942*
+*bot setting video : https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
+*githublink       https://github.com/anshsdat/pikachu*
+*audio commads    https://github.com/anshadat/pikachu/tree/master/uploads*
+*sticker commads  https://github.com/anshadat/pikachu/tree/master/uploads*
 `}) 
 
 }));
