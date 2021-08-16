@@ -18,13 +18,13 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ameer*
-*owner number wa.me/919946432377*
-*instagram  : https://www.instagram.com/ameer_.su_hail?r=nametag*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/ameer-kallumthodi/pikachu*
-*audio commads    https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Anshad*
+*owner number wa.me/919995390942*
+*instagram  : https://instagram.com/ans._had_?utm_medium=copy_link*
+*bot setting video : https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
+*githublink       https://github.com/anshadat/pikachu*
+*audio commads    https://github.com/anshadat/pikachu/tree/master/uploads*
+*sticker commads  https://github.com/anshadat/pikachu/tree/master/uploads*
 `}) 
 
 }));
