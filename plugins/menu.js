@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/IMG-20210816-WA0607.jpg";
     
     
     var i = Math.floor(1*Math.random())
