@@ -22,9 +22,9 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 *owner number wa.me/919995390942*
 *instagram  : https://instagram.com/ans._had_?utm_medium=copy_link*
 *bot setting video : https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
-*githublink       https://github.com/anshadat/pikachu*
-*audio commads    https://github.com/anshadat/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/anshadat/pikachu/tree/master/uploads*
+*githublink       https://github.com/anshadat/Rocky*
+*audio commads    https://github.com/anshadat/Rocky/tree/master/uploads*
+*sticker commads  https://github.com/anshadat/Rocky/tree/master/uploads*
 `}) 
 
 }));
