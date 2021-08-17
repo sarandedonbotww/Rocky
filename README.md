@@ -5,7 +5,7 @@
 <a href="#"><img title="Anshad" src="https://img.shields.io/badge/Anshad-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/anshadat"><img title="Author" src="https://img.shields.io/badge/Author-anshadat/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/anshadat"><img title="Author" src="https://img.shields.io/badge/Author-anshadat/Rocky?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/anshadat">anshadat</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/anshadat/pikachu">
-    <img src="https://img.shields.io/github/repo-size/anshadat/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/anshadat/Rocky">
+    <img src="https://img.shields.io/github/repo-size/anshadat/Rocky?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/anshadat/followers"><img title="Followers" src="https://img.shields.io/github/followers/anshadat?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/anshadat/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anshadat/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/anshadat/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/anshadat/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/anshadat/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anshadat/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anshadat/Rocky?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/network/members"><img title="Forks" src="https://img.shields.io/github/forks/anshadat/Rocky?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anshadat/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anshadat/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anshadat/Rocky.git)
      </div>
 <br>
 <br >
@@ -75,8 +75,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/anshadat/pikachu
-$ cd pikachu
+$ git clone https://github.com/anshadat/Rocky
+$ cd Rocky
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -85,8 +85,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/anshadat/pikachu
-$ cd pikachu
+$ git clone https://github.com/anshadat/Rocky
+$ cd Rocky
 $ chmod +x *
 $ npm i
 $ node qr.js
