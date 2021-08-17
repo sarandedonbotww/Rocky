@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Anshadvfc 𝐛𝐨𝐭.
-            *anshad*
+            *rocky*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -120,7 +120,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pikachu
+⚠️anime Rocky
 ■□■□■□■□■anshad□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -132,9 +132,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pikachu
+⚠️ex  attp Rocky
 ■□■□■□■□■□■□■□■□■□■□
-═════💢anshad💢═════
+═════💢rocky💢═════
 ▣▣▣▣▣▣▣▣▣anshadvfc▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
