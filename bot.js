@@ -802,7 +802,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     '\n*Rocky an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/BpBrzrfFLyF81OHmvm6nhr' +
+                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
@@ -926,7 +926,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, I Couldnt Read This Error! 🙇🏻*' +
-                                        '\n_You can write to our support group for more help /nhttps://chat.whatsapp.com/BpBrzrfFLyF81OHmvm6nhr._'
+                                        '\n_You can write to our support group for more help /nhttps://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd._'
                                         , MessageType.text
                                     );
                                 }    
