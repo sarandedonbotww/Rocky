@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/anshadat">anshadat</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BpBrzrfFLyF81OHmvm6nhr)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd)
        
     
 ## Setup
