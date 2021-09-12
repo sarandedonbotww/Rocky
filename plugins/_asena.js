@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -41,7 +41,7 @@ if (Config.WORKTYPE == 'private') {
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -77,7 +77,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -106,7 +106,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -143,7 +143,7 @@ else if (Config.WORKTYPE == 'public') {
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -172,7 +172,7 @@ else if (Config.WORKTYPE == 'public') {
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -208,7 +208,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: tru
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -237,7 +237,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: tru
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === Rocky Bot) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
