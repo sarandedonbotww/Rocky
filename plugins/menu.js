@@ -1,11 +1,16 @@
-const Asena = require('../events');
+/* codded by raashii
+reedited by anshad
+use this git under copyright
+dont change credit
+*/
+
+const Hisham= require('../events');
+const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
+const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-const Language = require('../language');
-const Lang = Language.getString('wallpaper');
-
-Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Hisham.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
