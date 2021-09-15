@@ -27,8 +27,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 │
 │ ▢ *ᴏᴡɴᴇʀ* : ᴀɴsʜᴀᴅ
 │ ▢ *ɴᴜᴍʙᴇʀ* : wa.me/919995390942
-│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/ 
-│ans._had_?utm_medium=copy_link
+│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/│ans._had_?utm_medium=copy_link
 │ ▢ *ʏᴛ* :https://youtube.com/channel/│UCQ3NYIDKT6-glPHTPya7b7w
 │ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/│anshadat/Rocky
 │ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/│anshadat/Rocky/tree/master/uploads
