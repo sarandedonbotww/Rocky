@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Rocky+WA+Bot+repo;Created+by+Anshad+;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Rocky+WA+Bot+repo;Created+by+Anshad+vfc;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
