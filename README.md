@@ -121,7 +121,7 @@ By establishing the Rocky, you are deemed to have accepted these responsibilitie
     
   [![anshadat](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) |  [![anshadat](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) | [![anshadat](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[anshadat](https://github.com/anshadat)  | [anshadat](https://github.com/anshadat) | [anshadat](https://github.com/anshadat)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
