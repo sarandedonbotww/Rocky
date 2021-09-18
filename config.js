@@ -34,6 +34,7 @@ module.exports = {
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://imgflip.com/gif/5nez8d' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://imgflip.com/gif/5nezjo' : process.env.GIF_BYE,
+    RASHI: process.env.LOGO_LINK === undefined ? 'https://i.ibb.co/8KWTjMn/20210917-093455.jpg' : process.env.LOGO_LINK,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
