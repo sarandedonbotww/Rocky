@@ -22,6 +22,11 @@
             "required": true,
             "value": "EN"
         },
+        "BGM_DURATION": {
+            "description": "FUNY BGM DURATION   codded by ANSHAD",
+            "required": false,
+            "value": "31996800"
+        },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
