@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     
     
    
-  r_text[0] = "https://www.linkpicture.com/q/20210816_231658.jpg";
+  r_text[0] = "https://i.postimg.cc/yxKfcqGQ/Anshad.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -25,13 +25,22 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 │
 │
 │
+│
 │ ▢ *ᴏᴡɴᴇʀ* : ᴀɴsʜᴀᴅ
+│
 │ ▢ *ɴᴜᴍʙᴇʀ* : wa.me/919995390942
-│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/│ans._had_?utm_medium=copy_link
-│ ▢ *ʏᴛ* :https://youtube.com/channel/│UCQ3NYIDKT6-glPHTPya7b7w
-│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/│anshadat/Rocky
-│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/│anshadat/Rocky/tree/master/uploads
-│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://│github.com/anshadat/Rocky/tree/│master/uploads
+│
+│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/ans._had_?utm_medium=copy_link
+│
+│ ▢ *ʏᴛ* :https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
+│
+│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/anshadat/Rocky
+│
+│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
+│
+│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
+│
+│
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
