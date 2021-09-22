@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/anshadat">anshadat</a> to make it
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/│ans.had?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/ans.had?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click Rocky logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210816_231658.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd" target="blank"><img align="center" src="https://i.postimg.cc/yxKfcqGQ/Anshad.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
