@@ -37,7 +37,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 │
 │ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
 │
-│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/│master/uploads
+│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
 │
 │
 │
