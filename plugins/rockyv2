@@ -18,10 +18,10 @@ var ddd = ggg.toString('utf-8')
 Asena.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: '.help', description:
-        {title: '.xmedia', description:
-        {title: '.owner', description:
-        {title: '.git', description:
+        {title: '.list'
+        {title: '.xmedia'
+        {title: '.owner'
+        {title: '.git'
        ]
         
 
