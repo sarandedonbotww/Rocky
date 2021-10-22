@@ -64,11 +64,11 @@ module.exports = {
     DATABASE: DATABASE_URL === './whatsasena.db' ? new Sequelize({ dialect: "sqlite", storage: DATABASE_URL, logging: DEBUG }) : new Sequelize(DATABASE_URL, { dialectOptions: { ssl: { require: true, rejectUnauthorized: false } }, logging: DEBUG }),
     RBG_API_KEY: process.env.REMOVE_BG_API_KEY === undefined ? false : process.env.REMOVE_BG_API_KEY,
     NO_ONLINE: process.env.NO_ONLINE === undefined ? true : convertToBool(process.env.NO_ONLINE),
-    SUDO: process.env.SUDO === undefined ? '919995390942,0' : process.env.SUDO,
+    SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919995390942-1631457983",
-    SUPPORT2: "919995390942-1631457983",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "905524317752-1612308121",
+    SUPPORT2: "905511384572-1617739751",
+    SUPPORT3: "905518384572-1621085274"
 };
