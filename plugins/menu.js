@@ -4,13 +4,13 @@ use this git under copyright
 dont change credit
 */
 
-const Asena= require('../events');
+const Hisham= require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Asena.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Hisham.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
