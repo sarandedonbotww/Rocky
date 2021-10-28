@@ -145,13 +145,13 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '919995390942@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Anshad.webp'), MessageType.sticker, { mimetype: Mimetype.webp,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Anshad.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['Pikachu','Msd','Vijay','rocky','Rashmika','Sry','Da','Line','Aarulle','achodaa','ayin','Aysheri','Ayye','Mm','vijay','onam','thalapathy','Ok','Aktf','Anshad','Sed','Samantha','poda','chaya','Poda','Ayyo','broken','bye','chattho','cute','Eee','engane und','Entha','Enthada','Girls','Good morning','Good night','Hi','Hy','ithokke enth','ivan','Kurippe','Kurumb','Love','naanam','nadakkatte','paavam','Pattumo','pikachu','Pm','Pova','Save','setth','sho','Shoo','Smile','tag','Udayipp','umma','Vaa','Vannu','yo','ys' ]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-   await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted: message.data, ptt: false})
+   await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
 }
 });
 }
