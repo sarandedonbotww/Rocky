@@ -124,7 +124,7 @@ const array = ['alive','andi','audio','Ayin','aliya','am','Aktf','Aa','Alone','A
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 719999998,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted: message.data, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOT + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./Anshad.jpg')}}}});
+       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 719999998,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted: message.data, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOT + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('Anshad.jpg')}}}});
 }
 });
     }
@@ -145,13 +145,13 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '919995390942@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Anshad.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Anshad.webp'), MessageType.sticker, { mimetype: Mimetype.webp,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: false})
     }
 const array = ['Pikachu','Msd','Vijay','rocky','Rashmika','Sry','Da','Line','Aarulle','achodaa','ayin','Aysheri','Ayye','Mm','vijay','onam','thalapathy','Ok','Aktf','Anshad','Sed','Samantha','poda','chaya','Poda','Ayyo','broken','bye','chattho','cute','Eee','engane und','Entha','Enthada','Girls','Good morning','Good night','Hi','Hy','ithokke enth','ivan','Kurippe','Kurumb','Love','naanam','nadakkatte','paavam','Pattumo','pikachu','Pm','Pova','Save','setth','sho','Shoo','Smile','tag','Udayipp','umma','Vaa','Vannu','yo','ys' ]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-   await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
+   await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted: message.data, ptt: false})
 }
 });
 }
