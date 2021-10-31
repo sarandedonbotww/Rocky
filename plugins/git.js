@@ -5,51 +5,15 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var r_text = new Array ();
-    
-    
-   
-  r_text[0] = "https://i.postimg.cc/yxKfcqGQ/Anshad.jpg";
-    
-    
-    var i = Math.floor(1*Math.random())
+    var skl = await axios.get("https://i.postimg.cc/yxKfcqGQ/Anshad.jpg", { responseType: 'arraybuffer' })
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/anshadat/Rocky*
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
-   ᴀɴsʜᴀᴅ ᴠғᴄ
-╭──────────────────╯
-│
-│
-│
-│
-│ ▢ *ᴏᴡɴᴇʀ* : ᴀɴsʜᴀᴅ
-│
-│ ▢ *ɴᴜᴍʙᴇʀ* : wa.me/919995390942
-│
-│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/ans._had_?utm_medium=copy_link
-│
-│ ▢ *ʏᴛ* :https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
-│
-│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/anshadat/Rocky
-│
-│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
-│
-│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
-│
-│
-│
-│      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│       ©919995390942
-│
-╰──────────────────╮
-│ 
-│
-│   ❏ 𝘤𝘰𝘥𝘦𝘥 𝘣𝘺 *ᴀɴsʜᴀᴅ* ❏
-╰──────────────────╯
+*Audio comnds* : *https://github.com/anshadat/Rocky/tree/master/uploads*
+
+*Sticker cmnds* : *https://github.com/anshadat/Rocky/tree/master/uploads*
 `}) 
 
 }));
