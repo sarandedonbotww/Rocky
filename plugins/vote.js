@@ -1,4 +1,4 @@
-const Rocky = require('../events');
+const souravkl11 = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const axios = require('axios');
@@ -8,7 +8,7 @@ const cwebp = require('cwebp-bin');
 const Config = require('../config');
 const need ="*වචනයක් අවශ්‍යයි 😭*"
              
- Rocky.addCommand({pattern: 'btn ?(.*)', fromMe: true, dontAdCommandList: true}, (async (message, match) => {
+ souravkl11.addCommand({pattern: 'btn ?(.*)', fromMe: true, dontAdCommandList: true}, (async (message, match) => {
       if (match[1] === '') return await message.client.sendMessage(message.jid,need);
       var topText, bottomText, tl, t2, t3 ;
       if (match[1].includes('/')) {
