@@ -119,11 +119,10 @@ By establishing the Rocky, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
- 
-  [![anshadat](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) 
-----|----|----
-[anshadat](https://github.com/anshadat)  
-Base, Bug Fixes, Modules 
+  [![`anshad`](https://github.com/anshadat.png?size=100)](https://github.com/anshadat)
+
+[`anshad`](https://github.com/anshadat)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
