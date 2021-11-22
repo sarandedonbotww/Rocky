@@ -207,7 +207,7 @@
             "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
         },
         "system_stats": {
-            "ALIVE_DESC": "Does bot work?",
+            "ALIVE_DESC": "Checks if the bot is working or not",
             "SYSD_DESC": "Shows the system properties."
         },
         "tagall": {
