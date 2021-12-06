@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Rocky+WA+Bot+repo;Created+by+Anshad+vfc;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+SPlRlT+WA+Bot+repo;Created+by+SPlRlT+vfc;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click Rocky logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd" target="blank"><img align="center" src="https://i.postimg.cc/yxKfcqGQ/Anshad.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd" target="blank"><img lNG-20211205-155159-194.jpg.cc/yxKfcqGQ/Anshad.jpg" alt="kyr /></a>
 </p>
     
 ## Setup
